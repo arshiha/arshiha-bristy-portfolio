@@ -7,6 +7,7 @@ import Testimonials from "./Components/Testimonials/Testimonials.jsx";
 import Contact from "./Components/Contact/Contact.jsx";
 import Footer from "./Components/Footer/Footer.jsx";
 import About from "./Components/About/About.jsx";
+import Blog from "./Components/Blog/Blog.jsx";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Portfolio></Portfolio>
       <Testimonials></Testimonials>
       <Contact></Contact>
+      <Blog></Blog>
       <Footer></Footer>
     </div>
   );
