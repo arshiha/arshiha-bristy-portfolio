@@ -14,10 +14,10 @@ const Services = () => {
         <span>My Awesome</span>
         <span>services</span>
         <span>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. nulla totam
-          incidunt laboriosam
+          I am a junior web developer. Learning programming through the
+          Programming Hero course.
           <br />
-          aliquam a hic? Harum, nihil reiciendis.
+          Below is my resume.
         </span>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
@@ -50,9 +50,7 @@ const Services = () => {
           <Card
             emoji={Humble}
             heading={"UI/UX"}
-            detail={
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit. nulla totam"
-            }
+            detail={"My portfolio website"}
           />
         </div>
       </div>

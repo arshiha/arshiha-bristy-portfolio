@@ -14,22 +14,22 @@ const Testimonials = () => {
     {
       img: porfilePic1,
       review:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus illum distinctio aspernatur soluta repellat fuga, ea odit voluptatibus et deserunt mollitia, consequuntur possimus ex est ipsa commodi sed consequatur doloremque!",
+        "A Post-Implementation Review (PIR) is conducted after completing a project. Its purpose is to evaluate whether project objectives were met, to determine how effectively the project was run, to learn lessons for the future, and to ensure that the organization gets the greatest possible benefit from the project.",
     },
     {
       img: porfilePic2,
       review:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus illum distinctio aspernatur soluta repellat fuga, ea odit voluptatibus et deserunt mollitia, consequuntur possimus ex est ipsa commodi sed consequatur doloremque!",
+        "While this is one of the most critical requirements when reviewing an employee’s job performance, it’s one of the most difficult to evaluate. For this reason, the words and expressions you use should be carefully chosen. These phrases will be useful to draw on when evaluating a person’s quality of work:",
     },
     {
       img: porfilePic3,
       review:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus illum distinctio aspernatur soluta repellat fuga, ea odit voluptatibus et deserunt mollitia, consequuntur possimus ex est ipsa commodi sed consequatur doloremque!",
+        "Initiative is an essential trait of high-performing people. Employees with initiative stand out from their peers through their willingness to act without being asked to. Here are some phrases that you can draw on when evaluating and discussing your employees’ levels of initiative",
     },
     {
       img: porfilePic4,
       review:
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus illum distinctio aspernatur soluta repellat fuga, ea odit voluptatibus et deserunt mollitia, consequuntur possimus ex est ipsa commodi sed consequatur doloremque!",
+        "Professionalism is an area that covers a broad range of behaviors and attitudes but also extends to issues such as the way a person dresses and their personal hygiene and tidiness. Examples of performance review phrases that you can draw on to determine the overall professionalism of an employee are given below",
     },
   ];
   return (
