@@ -3,6 +3,10 @@ import "./Intro.css";
 import Github from "../../img/github.png";
 import Linkedin from "../../img/linkedin.png";
 import Instragram from "../../img/instagram.png";
+import boy from "../../img/boy.png";
+// import thumbup from "../../img/thumbup.png";
+// import glassesimoji from "../../img/glassesimoji.png";
+// import FlotingDiv from "../FlotingDiv/FlotingDiv.jsx";
 
 const Intro = () => {
   return (
@@ -23,11 +27,14 @@ const Intro = () => {
 
         <div className="i-icons">
           <img src={Github} alt="" />
+
           <img src={Linkedin} alt="" />
           <img src={Instragram} alt="" />
         </div>
       </div>
-      <div className="i-right">i am right side</div>
+      <div className="i-right">
+        <img className="boy" src={boy} alt="" />
+      </div>
     </div>
   );
 };
