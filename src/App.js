@@ -6,6 +6,7 @@ import Portfolio from "./Components/Portfolio/Portfolio.jsx";
 import Testimonials from "./Components/Testimonials/Testimonials.jsx";
 import Contact from "./Components/Contact/Contact.jsx";
 import Footer from "./Components/Footer/Footer.jsx";
+import About from "./Components/About/About.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Navbar></Navbar>
       <Intro></Intro>
       <Services></Services>
+      <About></About>
       <Portfolio></Portfolio>
       <Testimonials></Testimonials>
       <Contact></Contact>
